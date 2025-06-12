@@ -1,0 +1,163 @@
+{
+  "project_info": {
+    "project_number": "623204910695",
+    "firebase_url": "https://foodshop-c3341-default-rtdb.firebaseio.com",
+    "project_id": "foodshop-c3341",
+    "storage_bucket": "foodshop-c3341.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:623204910695:android:6fb5ba505405aa1493f6c2",
+        "android_client_info": {
+          "package_name": "com.example.chatapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "623204910695-56j66qhd4u2888qfe14tkt9e2eumv2k2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.chatapp",
+            "certificate_hash": "83325a2c72d94708dfcc55240fece775a2daf987"
+          }
+        },
+        {
+          "client_id": "623204910695-lp27h6dg5c4tm0g95mm6hl3d2a713ob4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAW-XENvewruof82aQXxZWOnoNkE9BkPkU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "623204910695-lp27h6dg5c4tm0g95mm6hl3d2a713ob4.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "623204910695-9utjscocnts2f0cqup3f2vs5jt7mah7h.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.travelApp"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:623204910695:android:5c4cfe1785ffe15b93f6c2",
+        "android_client_info": {
+          "package_name": "com.example.travel_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "623204910695-lp27h6dg5c4tm0g95mm6hl3d2a713ob4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAW-XENvewruof82aQXxZWOnoNkE9BkPkU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "623204910695-lp27h6dg5c4tm0g95mm6hl3d2a713ob4.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "623204910695-9utjscocnts2f0cqup3f2vs5jt7mah7h.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.travelApp"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:623204910695:android:dc783beeb2ef3c3893f6c2",
+        "android_client_info": {
+          "package_name": "com.unknown"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "623204910695-lp27h6dg5c4tm0g95mm6hl3d2a713ob4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAW-XENvewruof82aQXxZWOnoNkE9BkPkU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "623204910695-lp27h6dg5c4tm0g95mm6hl3d2a713ob4.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "623204910695-9utjscocnts2f0cqup3f2vs5jt7mah7h.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.travelApp"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:623204910695:android:e371a3664149769b93f6c2",
+        "android_client_info": {
+          "package_name": "com.unknown.social"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "623204910695-lp27h6dg5c4tm0g95mm6hl3d2a713ob4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAW-XENvewruof82aQXxZWOnoNkE9BkPkU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "623204910695-lp27h6dg5c4tm0g95mm6hl3d2a713ob4.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "623204910695-9utjscocnts2f0cqup3f2vs5jt7mah7h.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.travelApp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
